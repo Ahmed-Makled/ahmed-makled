@@ -1,36 +1,64 @@
-# Hi there 👋
-### I am Ahmed Makled from Egypt,                                                                                                                                               
-### I am very happy to see you here in my github account.
+# Hi there! 👋
 
-                                                                                                                                                                                 
+### Ahmed Makled - Front End Developer 
 
----
+<hr>
 
-## Who Am I ? 🤔
+### 🧑‍💻 Overview
 
-I am Ahmed Makled, innovative Front End Developer with 1 year experience building and maintaining responsive websites in the recruiting industry.
-Proficient in HTML, CSS, jQuery, JavaScript and angular; plus modern libraries and frameworks. Passionate about usability and possess working knowledge of Adobe Photoshop 
-
----
-## Skills
-
-### I have Learned 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+- ✨ With over 2 years of hands-on experience, I specialize in front-end development, boasting expertise in a wide array of web technologies.
+- 🌐 My coding arsenal includes  HTML, CSS, SCSS,Boostrap , JavaScript, TypeScript and Angular.
+- 🚀 I possess a holistic understanding of the project lifecycle, encompassing everything from analysis and design to development, testing, and maintenance.
 
 
-### I am currently learning
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<hr>
+
+### 🔨 Technical Skills
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+ ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+ ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+ ![Boostrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+)
+ ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+ ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+ ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+ ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+ ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Sokect.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
+<hr>
+
+### 📈 GitHub Stats
+![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmed-Makled)
+
+
+
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Makled&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Makled&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
+  
+<hr>
+
+
+
+###  📬 Get in Touch
+
+
+- Email: ahmed.makled@live.com
+- LinkedIn: [Ahmed Makled](https://www.linkedin.com/in/ahmedmakled)
+- Twitter: [Ahmed Makled](https://twitter.com/dr_ahmad50)
+
+<hr>
+
+Thank you for taking the time to explore my GitHub profile. I'm excited for new opportunities and potential collaborations! Let's create amazing web experiences together. 😄🚀
